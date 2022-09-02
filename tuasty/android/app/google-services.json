@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173409199594",
+    "firebase_url": "https://tuasty-90b4f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tuasty-90b4f",
+    "storage_bucket": "tuasty-90b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173409199594:android:220a11dee58eb4ea8bbe93",
+        "android_client_info": {
+          "package_name": "com.example.tuasty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173409199594-ujbu9brme97spmmdt3lvel29tn73g9uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6jYVMmI6J7Hqzp9PINFYW75GrNWD76P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173409199594-ujbu9brme97spmmdt3lvel29tn73g9uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
