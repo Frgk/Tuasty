@@ -10,9 +10,9 @@ An application used to application to manage user's food expiration date.
 
 ## Screenshots
 
-|Home|Parameters|Hosts|Details|
+|Home|Parameters|Shoplist|News|
 |:--:|:--------:|:---:|:-----:|
-|<img src="/screenshots/Screenshot_1.png" width="250">|<img src="/screenshots/Screenshot_2.png" width="250">|<img src="/screenshots/Screenshot_3.png" width="250">|<img src="/screenshots/Screenshot_4.png" width="250">|
+|<img src="/screenshots/Screenshot_Homepage.png" width="250">|<img src="/screenshots/Screenshot_Parameters.png" width="250">|<img src="/screenshots/Screenshot_Shoplist.png" width="250">|<img src="/screenshots/Screenshot_4.png" width="250">|
 
 ## Options
 When changing the parameters, and specially the list of specific ports to scan, make sure that numbers are separated by a comma (ex:11,22,33) with no space between. 
