@@ -1,16 +1,18 @@
-# tuasty
+# Tuasty
 
-A new Flutter project.
+An application used to application to manage user's food expiration date.
 
-## Getting Started
+## The application works on :
 
-This project is a starting point for a Flutter application.
+|Android|iOS|Windows|Web|
+|:-----:|:-:|:-----:|:-:|
+|YES|NO|NO|NO|
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+|Home|Parameters|Hosts|Details|
+|:--:|:--------:|:---:|:-----:|
+|<img src="/screenshots/Screenshot_1.png" width="250">|<img src="/screenshots/Screenshot_2.png" width="250">|<img src="/screenshots/Screenshot_3.png" width="250">|<img src="/screenshots/Screenshot_4.png" width="250">|
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Options
+When changing the parameters, and specially the list of specific ports to scan, make sure that numbers are separated by a comma (ex:11,22,33) with no space between. 
